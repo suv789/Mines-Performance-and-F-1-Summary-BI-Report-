@@ -16,9 +16,10 @@ The Mines Wise Report is a Power BI dashboard designed to provide detailed insig
 * 📦 Quantity Insights: View quantities in Metric Tonnes (MT)
 * 🔍 Interactive Filters: Slice data by date, location, product, and more
 * 📊 KPI Metrics: Key indicators such as total production, total sales, and growth
+
 🗂️ Data Sources
 
-The dashboard is built using structured datasets that may include:
+-- The dashboard is built using structured datasets that may include:
 
 * Mine details
 * Production data
@@ -28,6 +29,7 @@ The dashboard is built using structured datasets that may include:
 Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query (ETL)
+
 📌 Dashboard Components
 * KPI Cards: Total Production, Total Sales, Growth Metrics
 * Bar/Column Charts: Mine-wise comparison
